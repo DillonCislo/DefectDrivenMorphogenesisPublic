@@ -1,32 +1,14 @@
-# Prerequisites
-*.d
+# Data files
+*.tif
+# *.mat
+*.png
+*.eps
+*.csv
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# MATLAB files
+*.swp
+*.asv
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Compiled object files
+*.mexa64
+*.mexmaci64

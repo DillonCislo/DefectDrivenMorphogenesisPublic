@@ -1,0 +1,15 @@
+[submodule "External/Violinplot-Matlab"]
+	path = External/Violinplot-Matlab
+	url = https://github.com/bastibe/Violinplot-Matlab.git
+[submodule "External/BrewerMap"]
+	path = External/BrewerMap
+	url = https://github.com/DrosteEffect/BrewerMap.git
+[submodule "External/mechanicalFeedback"]
+	path = External/mechanicalFeedback
+	url = https://github.com/DillonCislo/mechanicalFeedback.git
+[submodule "External/epitheliumAnalysis"]
+	path = External/epitheliumAnalysis
+	url = https://github.com/DillonCislo/epitheliumAnalysis.git
+[submodule "External/shadedErrorBar"]
+	path = External/shadedErrorBar
+	url = https://github.com/raacampbell/shadedErrorBar.git
